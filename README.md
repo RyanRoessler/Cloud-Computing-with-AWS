@@ -1,5 +1,5 @@
-# Cloud-Computing-with-AWS
-Coursera: "DevOps on AWS"  
+# Cloud Computing with AWS
+Course offered by AWS: "DevOps on AWS"  
 
 This course is divided into four sub-courses:  
 
